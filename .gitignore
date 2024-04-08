@@ -1,0 +1,11 @@
+node_modules
+vendor/bundle
+
+# Android build folders
+android/build
+android/app/build
+android/.gradle
+
+# iOS build folders
+ios/build
+ios/Pods
